@@ -1,0 +1,6 @@
+XRootd
+ROOT.py
+*.pyc
+*/*.pyc
+.idea
+.idea/*
